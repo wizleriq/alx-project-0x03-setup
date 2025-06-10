@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
         <div>
           <h3 className="text-xl font-bold mb-4">Splash App</h3>
           <p className="text-gray-400 mb-4">
-            Your one-stop platform for all your needs. Connecting people, creating opportunities.
+            Your one-stop platform for all your needs. Connecting people, creating opportunities!
           </p>
           <p className="text-gray-400">© 2024 Splash App. All rights reserved.</p>
         </div>
